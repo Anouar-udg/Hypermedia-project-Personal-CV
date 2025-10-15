@@ -1,7 +1,7 @@
 # Hypermedia-project-Personal-CV
 # Project: Personal CV Website - Anouar El Barkouki
 
-## 🧑‍💻 Project Analysis
+## Project Analysis
 
 ### User Profile 
 The target user for this website is **a young professional or student** who wants to create a **modern, visually appealing online CV** to showcase their skills, education, and experience.  
@@ -40,8 +40,13 @@ The **responsive design** adapts the two-column layout into a single column on m
 
 ---
 
-### 🎨 Figma Project Link
+### Figma Project Link
 [View the design on Figma](https://www.figma.com/design/EkqiXM9ofNbQS2qGcVad3t/CV?node-id=0-1&t=gfY9McY9o6AndXSD-1)
 
 ---
 
+### GitHub Pages
+You can view the live version of this project here:  
+👉 **[https://anouar-udg.github.io/cv-project/]([https://anouar-udg.github.io/cv-project/](https://anouar-udg.github.io/Hypermedia-project-Personal-CV/))**
+
+---
