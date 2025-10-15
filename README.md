@@ -47,6 +47,6 @@ The **responsive design** adapts the two-column layout into a single column on m
 
 ### GitHub Pages
 You can view the live version of this project here:  
-👉 **[https://anouar-udg.github.io/cv-project/]([https://anouar-udg.github.io/cv-project/](https://anouar-udg.github.io/Hypermedia-project-Personal-CV/))**
+👉 **[https://anouar-udg.github.io/cv-project/](https://anouar-udg.github.io/Hypermedia-project-Personal-CV/)**
 
 ---
