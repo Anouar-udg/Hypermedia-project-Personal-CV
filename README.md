@@ -6,7 +6,7 @@
 ### User Profile 
 The target user for this website is **a young professional or student** who wants to create a **modern, visually appealing online CV** to showcase their skills, education, and experience.  
 This user is:
-- Is **20 years old**.
+- He is **20 years old**.
 - Looking for **their second job opportunity**.
 - Interested in **technology, design, and professional growth**.
 - Prefers a **clean and organized presentation** of information that’s easy to read both on desktop and mobile devices.
