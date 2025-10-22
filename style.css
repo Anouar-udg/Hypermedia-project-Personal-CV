@@ -104,6 +104,12 @@ ul {
   color: #0a4474;
 }
 
+.date2 {
+  float: right;
+  font-size: 12px;
+  color: #ffffff;
+}
+
 .right h3 {
   color: #0a4474;
   border-color: #0a4474;
@@ -134,4 +140,5 @@ a:hover {
     min-width: 100%;
   }
 }
+
 
